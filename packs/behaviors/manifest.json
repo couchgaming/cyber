@@ -1,0 +1,35 @@
+{
+  "format_version": 1,
+  "header": {
+    "name": "Cyber Behaviors",
+    "description": "Si-Fi material",
+    "uuid": "6b2b23f5-aced-44a2-8e9b-24079d306979",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  },
+  "modules": [
+    {
+      "description": "Behaviours for Cyber",
+      "type": "client_data",
+      "uuid": "b3b2f721-7e88-4576-a1f8-dd998b5d1415",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "51473fca-9bfd-41c5-9bf2-2fac64858f31",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
